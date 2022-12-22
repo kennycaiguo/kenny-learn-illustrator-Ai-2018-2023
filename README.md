@@ -3,7 +3,7 @@
 
 # <a href="https://github.com/olehermanse/schem">About Illustrator files for creating simplistic circuit schematics.</a>
 # <a href="https://github.com/mono0926/Adobe-Illustrator-CC-Classroom/">Adobe-Illustrator-CC-Classroom</a>
-# <a href=""></a>
+# <a href="https://github.com/luizg7/Udemy_Adobe-CC-MasterClass-Illustrator">Project about the Udemy Course for Adobe Illustrator</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
